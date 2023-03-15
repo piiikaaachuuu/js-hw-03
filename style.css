@@ -1,0 +1,39 @@
+.tasks {
+    margin-top: 150px;
+}
+.btn_1, .btn_2, .btn_3, .btn_4, .btn_5, .btn_6, .btn_7 {
+    display: inline-block; 
+    background: #8C959D; 
+    color: #fff; 
+    padding: 20px 40px;
+    text-decoration: none;
+    border-radius: 3px; 
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 0px 0px 10px -3px rgba(120,120,120,1);
+}
+.btn_1:hover {
+    background: #c51f1f;
+}
+.btn_2:hover {
+    background: #d88730;
+}
+.btn_3:hover {
+    background: #eac700;
+}
+.btn_4:hover {
+    background: #85c927;
+}
+.btn_5:hover {
+    background: #3ab7b9;
+}
+.btn_6:hover {
+    background: #3a45b9;
+}
+.btn_7:hover {
+    background: #913ab9;
+}
+.block_1, .block_2 {
+    display: flex;
+    justify-content: center;
+}
